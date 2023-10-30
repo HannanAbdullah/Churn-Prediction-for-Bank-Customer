@@ -39,7 +39,7 @@
 
 
 ## Used Libraries 📚
-- `numpy`- `pandas`- `matplotlib`- `seaborn` - `sklearn`- `tensorflow` - `optuna` - `pickle`
+- `numpy`- `pandas`- `matplotlib`- `seaborn` - `sklearn`- `tensorflow` - `optuna` - `pickle` - `keras` - `regularizers`
 
 
   
@@ -51,7 +51,7 @@ The repository includes a Jupyter notebook which you can run on your local machi
 
 ## Results 🪄
 ![Result](Result.png)
-The above image demonstrates that the ANN with Optuna got good scores outperforming the other models.
+The above image demonstrates that the ANN Optuna model without regularizers got good scores outperforming the other models.
 
 ### Optimal Hyperparameters for ANN model with Optuna:
 
