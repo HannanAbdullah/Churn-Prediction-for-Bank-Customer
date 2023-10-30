@@ -44,7 +44,7 @@
 
   
 ## Run the project ⚙️
-The repository includes a Jupyter notebook which you can run on your local machine or use this <a href="https://colab.research.google.com/drive/1Vzou3fQLlPTuy_-wjTm_NLYYM8QI_Yit?usp=sharing"> Google Colab </a> link.
+The repository includes a Jupyter notebook which you can run on your local machine or use this <a href="https://colab.research.google.com/drive/18q3wmaAKfTIi_bNEaWiMy8OOc4orIR9D?usp=sharing"> Google Colab </a> link.
 
 
 
