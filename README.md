@@ -52,7 +52,8 @@ The repository includes a Jupyter notebook which you can run on your local machi
 ## Results 🪄
 ![Result](Result.png)
 The above image demonstrates that the ANN with Optuna got good scores outperforming the other models.
-Optimal Hyperparameters for Logistic Regression:
+
+### Optimal Hyperparameters for ANN model with Optuna:
 
 | Parameter    | Value   |
 | :---: | :---: |
