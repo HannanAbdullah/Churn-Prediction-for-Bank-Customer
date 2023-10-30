@@ -36,16 +36,21 @@
 
 #### 4. Final Model and Model Deployment
 
+
+
 ## Used Libraries 📚
 - `numpy`- `pandas`- `matplotlib`- `seaborn` - `sklearn`- `tensorflow` - `optuna` - `pickle`
+
 
   
 ## Run the project ⚙️
 The repository includes a Jupyter notebook which you can run on your local machine or use this <a href="https://colab.research.google.com/drive/1Vzou3fQLlPTuy_-wjTm_NLYYM8QI_Yit?usp=sharing"> Google Colab </a> link.
 
 
+
+
 ## Results 🪄
-![Result](Churn Prediction for Bank Customer Model Resuls.png)
+![Result](Result.png)
 The above image demonstrates that the ANN with Optuna got good scores outperforming the other models.
 Optimal Hyperparameters for Logistic Regression:
 
@@ -59,6 +64,8 @@ Optimal Hyperparameters for Logistic Regression:
 | learning_rate   | `0.019745594055152176` |
 | w0   | `0.14477768557846568` |
 | w0   | `0.26819196792311456` |
+
+
 
 
 ## Acknowledgements
