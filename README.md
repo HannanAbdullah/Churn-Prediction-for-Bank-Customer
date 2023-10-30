@@ -63,7 +63,7 @@ Optimal Hyperparameters for Logistic Regression:
 | optimizer   | `'Adam'` |
 | learning_rate   | `0.019745594055152176` |
 | w0   | `0.14477768557846568` |
-| w0   | `0.26819196792311456` |
+| w1   | `0.26819196792311456` |
 
 
 
