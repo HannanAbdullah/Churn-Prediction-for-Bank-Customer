@@ -19,10 +19,7 @@
 
 # Tasks: ⚙️
 
-#### 1. Import Libraries, Load Dataset, Exploring Data
-- Import Libraries
-- Load Dataset
-- Explore Data
+#### 1. Import Libraries, Load Dataset
 
 #### 2. Exploratory Data Analysis (EDA)
 
