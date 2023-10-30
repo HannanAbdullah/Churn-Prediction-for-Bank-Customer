@@ -27,12 +27,12 @@
 - Train | Test Split, encoding and Scalling
   
 #### 4. Modelling & Model Performance
--ANN without class weight
--ANN with class weight and increasing the learning rate
--ANN with class weight and increasing the learning rate and droupout 
--ANN with class weight and increasing the learning rate and droupout and loss early stopping
--ANN with class weight and increasing the learning rate and droupout and recall early stopping
--ANN with Optuna 
+- ANN without class weight
+- ANN with class weight and increasing the learning rate
+- ANN with class weight and increasing the learning rate and droupout 
+- ANN with class weight and increasing the learning rate and droupout and loss early stopping
+- ANN with class weight and increasing the learning rate and droupout and recall early stopping
+- ANN with Optuna 
 
 #### 4. Final Model and Model Deployment
 
