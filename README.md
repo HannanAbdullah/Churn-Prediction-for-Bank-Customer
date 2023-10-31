@@ -44,25 +44,27 @@
 
   
 ## Run the project ⚙️
-The repository includes a Jupyter notebook which you can run on your local machine or use this <a href="https://colab.research.google.com/drive/18q3wmaAKfTIi_bNEaWiMy8OOc4orIR9D?usp=sharing"> Google Colab </a> link.
+The repository includes a Jupyter notebook which you can run on your local machine or use this <a href="https://colab.research.google.com/drive/1CqdbSFzD2atN5ppD0kzna-ZHJ8NxLG4x?usp=sharing"> Google Colab </a> link.
 
 
 
 
 ## Results 🪄
 ![Result](Result.png)
-The above image demonstrates that the ANN Optuna model without regularizers got good scores outperforming the other models.
+The above image demonstrates that the ANN Optuna model with regularizers got good scores outperforming the other models.
 
 ### Optimal Hyperparameters for ANN model with Optuna:
-
+ 
 | Parameter    | Value   |
 | :---: | :---: |
-| n_units1   | `73`   |
-| n_units2   | `61` |
-| n_units3   | `124` |
+| n_units1   | `85`   |
+| n_units2   | `83` |
+| n_units3   | `58` |
 | activation   | `'relu'` |
 | optimizer   | `'Adam'` |
-| learning_rate   | `0.019745594055152176` |
+| learning_rate   | `0.0009457075558769886` |
+| l1   | `0.00042905557761338547` |
+| l2   | `0.00102765908611057` |
 | w0   | `0.14477768557846568` |
 | w1   | `0.26819196792311456` |
 
