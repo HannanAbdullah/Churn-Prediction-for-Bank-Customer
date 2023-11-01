@@ -34,7 +34,7 @@
 - ANN with class weight and increasing the learning rate and droupout and recall early stopping
 - ANN with Optuna 
 
-#### 4. Final Model and Model Deployment
+#### 5. Final Model and Model Deployment
 
 
 
